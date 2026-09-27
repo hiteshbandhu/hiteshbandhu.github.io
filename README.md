@@ -1,2 +1,3 @@
 # hiteshbandhu.github.io
-Testing Static Sites
+
+My page: https://hiteshbandhu.github.io/ — plain HTML in `index.html`, no build step.
